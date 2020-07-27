@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.login-area{
+    border-radius: 10px;
+    box-shadow: 5px 5px 13px;
+}
+.displaying-off{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.depBalanceWithdraw{
+    color: white;
+    border-radius: 10px;   
+}
+
+/** 
+*
+* 2nd BLOCK Started 
+*/
+.depoWithCommon{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    
+}
